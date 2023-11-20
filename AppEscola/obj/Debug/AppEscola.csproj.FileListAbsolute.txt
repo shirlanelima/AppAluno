@@ -1,0 +1,11 @@
+C:\Users\shirl\OneDrive\Área de Trabalho\curso c# avancado\AppEscola\bin\Debug\AppEscola.exe.config
+C:\Users\shirl\OneDrive\Área de Trabalho\curso c# avancado\AppEscola\bin\Debug\AppEscola.exe
+C:\Users\shirl\OneDrive\Área de Trabalho\curso c# avancado\AppEscola\bin\Debug\AppEscola.pdb
+C:\Users\shirl\OneDrive\Área de Trabalho\curso c# avancado\AppEscola\obj\Debug\AppEscola.csproj.AssemblyReference.cache
+C:\Users\shirl\OneDrive\Área de Trabalho\curso c# avancado\AppEscola\obj\Debug\AppEscola.FrmPrincipal.resources
+C:\Users\shirl\OneDrive\Área de Trabalho\curso c# avancado\AppEscola\obj\Debug\AppEscola.Properties.Resources.resources
+C:\Users\shirl\OneDrive\Área de Trabalho\curso c# avancado\AppEscola\obj\Debug\AppEscola.csproj.GenerateResource.cache
+C:\Users\shirl\OneDrive\Área de Trabalho\curso c# avancado\AppEscola\obj\Debug\AppEscola.csproj.CoreCompileInputs.cache
+C:\Users\shirl\OneDrive\Área de Trabalho\curso c# avancado\AppEscola\obj\Debug\AppEscola.exe
+C:\Users\shirl\OneDrive\Área de Trabalho\curso c# avancado\AppEscola\obj\Debug\AppEscola.pdb
+C:\Users\shirl\OneDrive\Área de Trabalho\curso c# avancado\AppEscola\obj\Debug\AppEscola.Login.resources
